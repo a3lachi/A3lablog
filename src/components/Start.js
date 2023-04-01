@@ -18,7 +18,9 @@ const Start = () => {
       </div>
       
       <div className={styles.boxright} >
-        H
+        <img width={30} src="/twitter.svg" />
+        <img width={30} src="/github.svg" />
+        <img width={30} src="/linkedin.svg" />
       </div>
 
     </div>
