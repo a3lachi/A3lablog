@@ -7,15 +7,15 @@ const Dots = (props) => {
   const styleDot = {
     'height': props.dotSize+"px" , 
     'width': props.dotSize+"px" , 
-    'background-color': 'aqua' , 
+    'background-color': props.color , 
   }
-  
+
   const styleContainer = {
     'min-height': "auto" , 
     'top':props.top+"px" ,
     'left' : props.left+"px",
+    'right' : props.right+"px",
     'z-index': "-3",
-    'opacity': "0.4",
     'position': "absolute",
     'width': props.width+"px",
     'display': 'flex',

@@ -14,7 +14,7 @@ const StartMid = () => {
        
         </div>
         <div className={styles.midheadrightbottom}>
-          <div>  #Design #Process #Modular  #Expandable #Clean  #Extensible #Reusable #Product</div>
+          <div>  #Design #Paradigm #Algorithm #Modular  #Expandable #Clean  #Extensible #Reusable #Product </div>
         </div>
       </div>
     </div>
