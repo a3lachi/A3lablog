@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+<h1>OVERVIEW</h1>
+Experimenting with Next JS for SSR and server-side components.
