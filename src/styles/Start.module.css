@@ -12,24 +12,35 @@
   border-right: 5px solid black;
   display: inline-block;
   padding: 10px 20px 10px 20px;
+
+  
 }
+
 
 .boxmid{
   border-right: 5px solid black;
   padding: 10px 10px 10px 10px;
   display: flex;
-  width: 70%;
+  width: 170vw;
   justify-content: center;
   align-items: center;
   font-weight: 500;
 
 }
 
+.boxmid:hover {
+  font-size: 0;
+}
+
+.boxmid:hover + .boxright  {
+  background-color: #02c245;
+}
+
 
 .boxright{
   padding: 10px 10px 10px 10px;
   /* margin: auto; */
-  width: 20%;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;

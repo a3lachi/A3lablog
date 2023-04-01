@@ -14,7 +14,7 @@ const StartHeader = () => {
       </div>
 
       <div className={styles.boxmid}  >
-        <div>WHO AM I?</div>
+        <div>WHO AM I ?</div>
       </div>
       
       <div className={styles.boxright} >
