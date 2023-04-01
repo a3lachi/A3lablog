@@ -6,7 +6,7 @@ const StartMid = () => {
   return(
     <div  className={styles.midheadcontainer} >
       <div className={styles.midheadleft} >
-        <img width={680} src="/aloalo.png" />
+        <img width={680} className='imgg' src="/aloalo.png" />
       </div>
       <div className={styles.midheadright} >
         <div className={styles.midheadrighttop}>
