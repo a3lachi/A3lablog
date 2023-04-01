@@ -1,7 +1,7 @@
 import TwitterIcon from '@mui/icons-material/Twitter';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import styles from '../styles/Start.module.css';
-
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 const Start = () => {
 
@@ -22,6 +22,8 @@ const Start = () => {
       <div className={styles.boxright} >
         <TwitterIcon />
         <GitHubIcon />
+        <LinkedInIcon />
+        
       </div>
 
     </div>

@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css';
 import Start from '../components/Start'
 
 
-export default function Home() {
+const Home = () => {
 
 
   return (
@@ -14,6 +14,13 @@ export default function Home() {
       </Head>
 
       <Start />
+
+
     </div>
+
+
   )
 }
+
+
+export default Home ;
