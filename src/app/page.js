@@ -1,13 +1,14 @@
 import styles from '../styles/page.module.css'
-import StartHeader from '../components/StartHeader'
+import Start from './Start'
+import Dots from './Dots'
 
-import StartMid from '../components/StartMid'
 
 export default function Home() {
   return (
     <main className={styles.main}>
-      <StartHeader />
-      <StartMid />
+      <Start />
+      <Dots dotSize={23} width={600} top={210} left={-59} gap={30}  />
+
     </main>
   )
 }
