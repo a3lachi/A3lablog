@@ -10,10 +10,11 @@ const StartMid = () => {
       </div>
       <div className={styles.midheadright} >
         <div className={styles.midheadrighttop}>
-          I read palms, watch birds and write stable, maintainable and easily scalable code.
+          Software Engineer passionate about solving problems related to <span style={{backgroundColor:'blue', color:'white'}} >Distributed Systems.</span>
+       
         </div>
         <div className={styles.midheadrightbottom}>
-          <div>- - - - - - - - - - - - - - - - - - - - - - - -  </div>
+          <div>  #Design #Process #Modular  #Expandable #Clean  #Extensible #Reusable #Product</div>
         </div>
       </div>
     </div>
