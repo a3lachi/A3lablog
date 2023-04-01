@@ -1,10 +1,13 @@
 import styles from '../styles/page.module.css'
-import Start from '../components/Start'
+import StartHeader from '../components/StartHeader'
+
+import StartMid from '../components/StartMid'
 
 export default function Home() {
   return (
     <main className={styles.main}>
-      <Start />
+      <StartHeader />
+      <StartMid />
     </main>
   )
 }

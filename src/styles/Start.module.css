@@ -1,5 +1,5 @@
-.container {
-  margin-bottom: auto;
+.startheadcontainer {
+  
   border: 5px solid black ;
   width:70vw;
   height:100%;
@@ -26,9 +26,52 @@
 
 .boxright{
   padding: 10px 10px 10px 10px;
-  margin: auto;
+  /* margin: auto; */
+  width: 20%;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
+}
+
+.boxright a {
+  /* margin: auto; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.midheadcontainer{
+  margin-bottom: auto;
+  border: 5px solid black ;
+  border-top: 0px;
+  width:70vw;
+  height:100%;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.midheadleft{
+  border-right: 5px solid black ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
