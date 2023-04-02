@@ -72,8 +72,8 @@
 
 
 .midheadcontainer{
-  margin-bottom: auto;
   border: 5px solid black ;
+  padding-top: 0px;
   border-top: 0px;
   width:70vw;
   height:100%;

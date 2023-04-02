@@ -1,9 +1,10 @@
 .main {
-  min-height: 100vh;
-  padding: 0 0.5rem;
+  margin-top: 0px;
   display: flex;
+  height: 100%;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  padding-bottom: 500px;
+  flex-grow: 1
   
 }
