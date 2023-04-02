@@ -1,0 +1,31 @@
+@keyframes textFadeInOut {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.textlins div {
+
+  color: white;
+  font-size: 2em;
+  animation-name: textFadeInOut;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+.textlinsone {
+  animation-delay: 0s;
+}
+
+.textlinstwo {
+  animation-delay: 2s;
+}

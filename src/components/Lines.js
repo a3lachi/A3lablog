@@ -1,15 +1,32 @@
+import styles from '../styles/Lines.module.css'
+
+const slideinKeyframes = `@keyframes slidein {
+  from {
+    background-color: #a1a1aa;
+  }
+
+  to {
+    background-color: white;
+  }
+}`;
+
+
+
 
 const linesStyle = (top,left,width,height,color) => {
   return ({
-    'position':'relative' , 
-    'width' : width+'px',
+    'position':'absolute' , 
+    'width' : 'auto',
     'height': height+'px',
     'background-color':color,
     'top':top+'px',
-    'left':left+'px'
+    'left':left+'px',
+    'color':'#e5e7eb',
     }
   )
 }
+
+
 
 
 const Lines = (props) => {
@@ -17,15 +34,14 @@ const Lines = (props) => {
 
 
   return (
-    <>
-      <div style={linesStyle(240,-444,50,40,'#a1a1aa')}>
-        <div style={linesStyle(0,20,10,10,'#0d9488')} />
-        <div style={linesStyle(0,0,20,20,'#d4d4d8')} ></div>
-        <div style={linesStyle(-20,40,10,20,'#fde047')} />
-        <div style={linesStyle(-20,10,20,10,'#dc2626')} />
-        <div style={linesStyle(-60,0,20,10,'#92400e')} />
-      </div> 
-    </>
+      <div  style={linesStyle(235,40,'',40,'#dc2626')}>
+        
+        <div className={styles.textlins}>
+          <div className={styles.textlinsone}>Mo7amed</div>
+          <div className={styles.textlinstwo}>A3lachi</div>
+          
+        </div>
+      </div>
   )
 }
 
