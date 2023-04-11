@@ -1,18 +1,19 @@
+import styles from '../styles/Stack.module.css'
+import LanBlock from '@/components/LanBlock';
 
-
-const stackStyle = {
-  'color':'#e2e8f0',
-  'psition':'relative',
-  'padding':"40px 40px 10px 40px",
-  'align-items':'center',
-}
 const Stack = () => {
 
 
 
   return (
-    <div style={stackStyle}>
-      STACK
+    <div className={styles.stack}>
+      <div className={styles.tools}>
+        <div>Programming languages I use</div>
+      </div>
+
+      <LanBlock ext=".cpp" lan="C++" />
+      
+        
     </div>
   )
 }

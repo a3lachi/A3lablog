@@ -106,7 +106,7 @@
 .midheadrighttop{
   background-color: #0abbee;
   padding: 30px 30px 30px 30px ;
-  height: 300px;
+  height: auto;
   /* display: flex; */
   justify-content: center;
   align-items: center;
@@ -126,5 +126,21 @@
   align-items: center;
   text-align: center;
 }
+
+
+.smya {
+  height: 200px;
+  border-bottom:5px solid black ;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  font-size: 40px;
+  font-family: Gotham,Helvetica Neue,Helvetica,sans-serif;
+}
+
+
+
 
 

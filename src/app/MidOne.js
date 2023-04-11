@@ -1,7 +1,7 @@
 import Lines from '../components/Lines'
 const midOneStyle = {
   'position':'relative',
-  'top':'365px',
+  'margin-top':'365px',
   'height':'auto',
   'width':'70vw',
   'background-color':'#374151',
