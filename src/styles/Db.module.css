@@ -1,15 +1,15 @@
 
 
 
-
-.tools {
+.db {
   background-color: #e2e8f0;
   width: 70vw;
   border: 5px solid black;
   margin-top: 150px;
 }
 
-.toolstitle {
+
+.dbtitle {
   background-color: white;
   font-size: 30px;
   font-weight: 800;

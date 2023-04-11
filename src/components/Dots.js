@@ -21,7 +21,7 @@ const Dots = (props) => {
     'display': 'flex',
     'gap':props.gap+"px" ,
     'rowGap': props.gap+"px",
-    'flexXrap': 'wrap',
+    'flexWrap': 'wrap',
   }
 
   return (

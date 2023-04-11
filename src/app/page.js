@@ -1,3 +1,4 @@
+import Db from './Db'
 import styles from '../styles/page.module.css'
 import Start from './Start'
 import Dots from '../components/Dots'
@@ -16,7 +17,10 @@ export default function Home() {
       <Stack />
       <Dots dotSize={7} width={750} top={1904}  gap={10} right={96} color='#3730a3'/>
       <Api />
+      <Db />
+      <Dots dotSize={3} width={850} top={2604}  gap={5} right={996} color='#4ade80'/>
       <Tools />
+      
     </main>
   )
 }

@@ -28,6 +28,8 @@ const Api = () => {
           
           <img width={120} src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png" />
           <img width={80} src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/1827/formation-next-js.png" />
+          <img width={80} src="https://prismalens.vercel.app/header/logo-dark.svg" />
+          
 
         </div>
       </div>
