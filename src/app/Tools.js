@@ -20,6 +20,7 @@ const Tools = () => {
         <img width={70} src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
         <img width={70} src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
         <img width={120} src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png" />
+        <img width={120} src="https://dfv3qgd2ykmrx.cloudfront.net/assets/js/../media/modules/shared/assets/images/logo_sidemenu-b21174494ff48994526e932c93455045.svg" />
         <img width={120} src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" />
         <img width={70} src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/240px-Google_Chrome_icon_%28February_2022%29.svg.png" />
 
