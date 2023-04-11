@@ -2,10 +2,10 @@
 
 
 .stack {
-  background-color: yellow;
+  background-color: black;
   width: 70vw;
   border: 5px solid black;
-  height: 300px;
+  height: auto;
   position: relative;
   margin-top: 200px;
 }
@@ -19,6 +19,15 @@
   justify-content: center;
   width: fit-content;
   padding: 10px 10px;
-  border-right: 5px solid black;
-  border-bottom: 5px solid black;
+  /* border-right: 5px solid white;
+  border-bottom: 5px solid white; */
+}
+
+.lanz{
+  margin-top: 30px;
+  height: 200px;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
 }
