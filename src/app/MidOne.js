@@ -29,7 +29,9 @@ const MidOne = () => {
 
   return (
   <div style={midOneStyle}>
+    <div style={{width:'500px',height:'500px'}}>
     <img width={500} height={'auto'} src='/cafesetup.jpg' />
+    </div>
     <Lines />
     <div style={textStyle}>
       <div>
