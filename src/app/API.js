@@ -8,7 +8,7 @@ const Api = () => {
   return(
     <div className={styles.api} >
       <div className={styles.apititle}>
-        APIs I use
+        "API"s I use
       </div>
       <div  className={styles.list}>
         <div className={styles.imgg}>
