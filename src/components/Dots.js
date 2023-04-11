@@ -7,21 +7,21 @@ const Dots = (props) => {
   const styleDot = {
     'height': props.dotSize+"px" , 
     'width': props.dotSize+"px" , 
-    'background-color': props.color , 
+    'backgroundColor': props.color , 
   }
 
   const styleContainer = {
-    'min-height': "auto" , 
+    'minHeight': "auto" , 
     'top':props.top+"px" ,
     'left' : props.left+"px",
     'right' : props.right+"px",
-    'z-index': "-3",
+    'zIndex': "-3",
     'position': "absolute",
     'width': props.width+"px",
     'display': 'flex',
     'gap':props.gap+"px" ,
-    'row-gap': props.gap+"px",
-    'flex-wrap': 'wrap',
+    'rowGap': props.gap+"px",
+    'flexXrap': 'wrap',
   }
 
   return (

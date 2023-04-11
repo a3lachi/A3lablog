@@ -1,10 +1,10 @@
 import Lines from '../components/Lines'
 const midOneStyle = {
   'position':'relative',
-  'margin-top':'265px',
+  'marginTop':'265px',
   'height':'auto',
   'width':'70vw',
-  'background-color':'#374151',
+  'backgroundColor':'#374151',
   'display':'flex',
   'border': '5px solid black' 
 
@@ -12,13 +12,13 @@ const midOneStyle = {
 
 const textStyle = {
   'color':'#e2e8f0',
-  'font-size':'25px',
+  'fontSize':'25px',
   'padding':"10px 50px 10px 50px",
-  'align-items':'center',
-  'border-left': '5px solid black',
-  'justify-content':'center',
+  'alignItems':'center',
+  'borderLeft': '5px solid black',
+  'justifyContent':'center',
   'display':'flex',
-  'flex-direction':'column',
+  'flexDirection':'column',
   'gap':'30px'
 
 }

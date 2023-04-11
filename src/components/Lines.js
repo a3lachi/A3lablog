@@ -1,14 +1,5 @@
 import styles from '../styles/Lines.module.css'
 
-const slideinKeyframes = `@keyframes slidein {
-  from {
-    background-color: #a1a1aa;
-  }
-
-  to {
-    background-color: white;
-  }
-}`;
 
 
 
@@ -18,7 +9,7 @@ const linesStyle = (top,left,width,height,color) => {
     'position':'absolute' , 
     'width' : 'auto',
     'height': height+'px',
-    'background-color':color,
+    'backgroundColor':color,
     'top':top+'px',
     'left':left+'px',
     'color':'#e5e7eb',
