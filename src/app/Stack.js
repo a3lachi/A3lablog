@@ -10,7 +10,7 @@ const Stack = () => {
       <div className={styles.tools}>
         <div>Programming languages I use</div>
       </div>
-
+      <div className={styles.lanzwrap } >
       <div className={styles.lanz}>
         <LanBlock ext=".py" lan="Python" />
         <LanBlock ext=".sh" lan="Bash" />
@@ -21,7 +21,9 @@ const Stack = () => {
         <LanBlock ext=".ts" lan="Typescript" />
         <LanBlock ext=".sql" lan="PLSQL" />
         <LanBlock ext=".m" lan="Matlab" />
+        <LanBlock ext=".rb" lan="Ruby" />
         
+      </div>
       </div>
       
         

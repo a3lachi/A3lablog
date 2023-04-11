@@ -21,7 +21,7 @@ const LanBlock = (props) => {
           {props.ext}
         </div>
       </div>
-      <h4>{props.lan}</h4>
+      <div style={{color:'white' ,  fontWeight:'400' , marginTop:'10px'}}>{props.lan}</div>
        
     </div>
   )

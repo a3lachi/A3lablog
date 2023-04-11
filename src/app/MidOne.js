@@ -39,7 +39,7 @@ const MidOne = () => {
     I am able to design and write modular, expandable and clean code that meets the requirements of the project.
     </div>
     <div>
-    I believe that I would be an excellent addition to any team looking for a dedicated and talented software engineer.
+    I believe that I would be an excellent addition to any team looking for a dedicated and curious software engineer.
     </div>
     </div>
   </div>)
