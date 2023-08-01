@@ -22,7 +22,7 @@ const Api = () => {
           <img width={60} src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" />
           <img width={80} src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/240px-Node.js_logo.svg.png" />
           <img width={120} src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/440px-Expressjs.png" />
-          <img width={120} src="https://www.fastify.io/images/fastify-logo-menu.d13f8da7a965c800.png" />
+          {/* <img width={120} src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg" /> */}
           <img width={80} src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/240px-Ruby_On_Rails_Logo.svg.png" />
           
           <img width={100} src="https://res.cloudinary.com/practicaldev/image/fetch/s--m_Ng9MLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fppjegg7q1kb2pdzmlvf.png" />
