@@ -19,8 +19,8 @@ const StartHeader = () => {
       
       <div className={styles.boxright} >
         <a  target="_blank" href="https://twitter.com/a3laxi" ><img width={30} src="/twitter.svg" /></a>
-        <a  target="_blank" href="https://github.com/a3laxi" ><img width={30} src="/github.svg" /></a>
-        <a target="_blank" href="https://github.com/a3laxi" ><img width={30} src="/linkedin.svg" /></a>
+        <a  target="_blank" href="https://github.com/a3lachi" ><img width={30} src="/github.svg" /></a>
+        <a target="_blank" href="https://www.linkedin.com/in/mohamed-aalachi-878479252/" ><img width={30} src="/linkedin.svg" /></a>
       </div>
 
     </div>
