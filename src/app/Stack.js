@@ -20,8 +20,8 @@ const Stack = () => {
         <LanBlock ext=".java" lan="Java" />
         <LanBlock ext=".ts" lan="Typescript" />
         <LanBlock ext=".sql" lan="PLSQL" />
-        <LanBlock ext=".m" lan="Matlab" />
         <LanBlock ext=".rb" lan="Ruby" />
+        <LanBlock ext=".hs" lan="Haskell" />
         
       </div>
       </div>
