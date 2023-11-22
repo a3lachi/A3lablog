@@ -8,13 +8,12 @@ const Api = () => {
   return(
     <div className={styles.api} >
       <div className={styles.apititle}>
-        "API"s I use
+        Technologies I use
       </div>
       <div  className={styles.list}>
         <div className={styles.imgg}>
           <img width={80} src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/240px-Django_logo.svg.png" />
           <img width={120} src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/360px-Selenium_logo.svg.png" />
-          <img width={65} src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
           <img width={55} src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
           <img width={90} src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" />
           <img width={80} src="https://infiniteblogs.blob.core.windows.net/medias/f486812a-1c7f-4802-ab9d-4c709f0f1bb7_0.png" />
